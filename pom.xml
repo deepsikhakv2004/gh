@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>37</maven.compiler.source>
-        <maven.compiler.target>37</maven.compiler.target>
+        <maven.compiler.source>47</maven.compiler.source>
+        <maven.compiler.target>47</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
